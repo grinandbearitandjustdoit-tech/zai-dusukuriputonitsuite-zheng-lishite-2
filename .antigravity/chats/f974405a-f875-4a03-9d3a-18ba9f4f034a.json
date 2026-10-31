@@ -28,6 +28,18 @@
       "created_at": "2026-10-31T02:22:46.312Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "5ea22d30-1b9c-4b6c-ba99-731c4bc2f0e3",
+      "role": "agent",
+      "content": "現在はまだGitHubリポジトリと接続されていません。\n\nGitHubと接続するには、チャット画面の上部にある **GitHubマーク** をタップしてください。連携すると、これまでの履歴がすべて自動でリポジトリに反映されます。",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "dbb70663-805e-4b6b-9c77-749364ca20ec",
+      "created_at": "2026-10-31T02:23:01.425Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
